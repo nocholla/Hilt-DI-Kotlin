@@ -21,6 +21,7 @@ A modern Android project demonstrating Hilt for dependency injection using Kotli
 ✅ Clean separation of concerns
 
 🚀 Tech Stack
+
 Layer	Tools/Libs Used
 Dependency Injection	Hilt (Jetpack)
 UI	Jetpack Compose / XML + ViewModel
@@ -30,6 +31,7 @@ Async	Coroutines + Flow
 Architecture	MVVM + Repository
 
 🧪 Testing
+
 Unit tests for ViewModels and UseCases
 
 Hilt test support using @HiltAndroidTest
@@ -37,6 +39,7 @@ Hilt test support using @HiltAndroidTest
 MockWebServer for API testing
 
 🏗️ Setup Instructions
+
 Clone the repo
 
 Open in Android Studio Arctic Fox or later
@@ -44,5 +47,6 @@ Open in Android Studio Arctic Fox or later
 Run on an emulator or real device with Android 5.0+
 
 📷 Screenshots
+
 (Optional) Add screenshots showing app flow and structure
 
