@@ -3,6 +3,7 @@
 A modern Android project demonstrating Hilt for dependency injection using Kotlin, Jetpack libraries, and clean architecture principles.
 
 🛠️ Features
+
 ✅ Hilt for dependency injection
 
 ✅ MVVM architecture with ViewModel & Repository layers
