@@ -10,7 +10,7 @@ A modern Android project demonstrating Hilt for dependency injection using Kotli
 
 ✅ Room for local database
 
-✅ Retrofit for networking
+✅ OKHTTP3 for networking
 
 ✅ Coroutines + Flow for async programming
 
@@ -25,7 +25,7 @@ A modern Android project demonstrating Hilt for dependency injection using Kotli
 Layer	Tools/Libs Used
 Dependency Injection	Hilt (Jetpack)
 UI	Jetpack Compose / XML + ViewModel
-Networking	Retrofit + OkHttp
+Networking	OkHttp
 Local DB	Room
 Async	Coroutines + Flow
 Architecture	MVVM + Repository
